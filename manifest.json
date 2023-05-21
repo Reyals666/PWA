@@ -1,0 +1,17 @@
+{
+    "theme_color": "#000000",
+    "background_color": "#35f680",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/PWA",
+    "name": "przewodnik po kambodży",
+    "short_name": "guideAPP",
+    "description": "zaawansowane technologie internetowe projekt PWA",
+    "icons": [
+        {
+            "src": "./img/6.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
