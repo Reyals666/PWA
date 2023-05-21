@@ -9,7 +9,7 @@
     "description": "zaawansowane technologie internetowe projekt PWA",
     "icons": [
         {
-            "src": "./PWA/6.png",
+            "src": "PWA/6.png",
             "sizes": "512x512",
             "type": "image/png"
         }
