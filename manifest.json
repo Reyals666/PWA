@@ -1,7 +1,7 @@
 {
     "theme_color": "#000000",
     "background_color": "#35f680",
-    "display": "browser",
+    "display": "fullscreen",
     "scope": "/",
     "start_url": "/PWA",
     "name": "przewodnik po kambodży",
